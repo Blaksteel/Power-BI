@@ -2,7 +2,7 @@
 
 ## Business Intelligence Analyst
 
-📍 Canada
+📍 France
 📧 [allawsonca@gmail.com](mailto:allawsonca@gmail.com)
 🔗 [LinkeIn](mailto:www.linkedin.com/in/alexander-lawson-103a492b3) | Portfolio
 
