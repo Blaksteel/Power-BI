@@ -156,10 +156,10 @@ Python
 ## 📈 [Projet 5 – Analyse de campagne Email marketing](https://github.com/Blaksteel/Power-BI/blob/main/Analyse%20de%20campagne%20email%20marketing.pdf)
 
 **Contexte**
-Les entreprises ont besoin d’indicateurs pour piloter leur performance.
+Analyser une campagne marketing afin de determiner les paramètres optimaux
 
 **Objectif**
-Définir des KPI et proposer des solutions BI adaptées.
+Obtenir des informations qui peuvent aider à améliorer l'engagement des clients
 
 **Outils**
 Power BI
@@ -177,7 +177,7 @@ Power BI
 
 ---
 
-## 🎯 Projet 6 – [Analyse de segmentation de marché](https://github.com/Blaksteel/Power-BI/blob/main/Analyse%20Segmentation%20de%20march%C3%A9.pdf)
+## 🎯 [Projet 6 – Analyse de segmentation de marché](https://github.com/Blaksteel/Power-BI/blob/main/Analyse%20Segmentation%20de%20march%C3%A9.pdf)
 
 **Contexte**
 Identifier les segments de marché les plus pertinents pour un client.
