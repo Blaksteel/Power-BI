@@ -81,7 +81,7 @@ Power BI
 
 ---
 
-## 🧮 Projet 2 – Analyse de données avec Python
+## 🧮 [Projet 2 – Analyse de données avec Python](https://github.com/Blaksteel/Power-BI/blob/main/Analyse%20de%20donn%C3%A9es%20avec%20Python.pdf)
 
 **Contexte**
 Analyser des données pour identifier des tendances et soutenir des décisions stratégiques.
@@ -105,7 +105,7 @@ Python (Pandas, NumPy)
 
 ---
 
-## 🗄️ Projet 3 – Base de données SQL & analyse de la satisfaction client
+## 🗄️ [Projet 3 – Base de données SQL & analyse de la satisfaction client](https://github.com/Blaksteel/Power-BI/blob/main/Suivi%20de%20satisfaction%20client%20sur%20SQL.pdf)
 
 **Contexte**
 Suivre efficacement la satisfaction client à partir des données.
@@ -129,7 +129,7 @@ SQL
 
 ---
 
-## 🧹 Projet 4 – Nettoyage de données & optimisation du stock
+## 🧹 [Projet 4 – Nettoyage de données & optimisation du stock](https://github.com/Blaksteel/Power-BI/blob/main/Optimisation%20de%20stock.pdf) 
 
 **Contexte**
 Les données retail contiennent souvent des incohérences qui faussent les analyses.
@@ -153,7 +153,7 @@ Python
 
 ---
 
-## 📈 Projet 5 – Optimisation des performances de l’entreprise
+## 📈 [Projet 5 – Analyse de campagne Email marketing](https://github.com/Blaksteel/Power-BI/blob/main/Analyse%20de%20campagne%20email%20marketing.pdf)
 
 **Contexte**
 Les entreprises ont besoin d’indicateurs pour piloter leur performance.
@@ -162,7 +162,7 @@ Les entreprises ont besoin d’indicateurs pour piloter leur performance.
 Définir des KPI et proposer des solutions BI adaptées.
 
 **Outils**
-SQL, Power BI
+Power BI
 
 **Actions**
 
@@ -177,7 +177,7 @@ SQL, Power BI
 
 ---
 
-## 🎯 Projet 6 – Analyse de segmentation de marché
+## 🎯 Projet 6 – [Analyse de segmentation de marché](https://github.com/Blaksteel/Power-BI/blob/main/Analyse%20Segmentation%20de%20march%C3%A9.pdf)
 
 **Contexte**
 Identifier les segments de marché les plus pertinents pour un client.
@@ -186,7 +186,7 @@ Identifier les segments de marché les plus pertinents pour un client.
 Analyser les données clients et produits pour orienter la stratégie.
 
 **Outils**
-Python, Excel
+Power BI
 
 **Actions**
 
@@ -201,13 +201,5 @@ Python, Excel
 
 ---
 
-# 📬 Contact
-
-N’hésitez pas à me contacter pour toute opportunité ou collaboration.
-
-📧 [votre.email@email.com](mailto:votre.email@email.com)
-🔗 LinkedIn | GitHub
-
----
 
 
