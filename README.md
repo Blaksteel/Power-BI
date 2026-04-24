@@ -56,7 +56,7 @@ Mon objectif est de transformer des données complexes en décisions claires et 
 
 # 🚀 Projets
 
-## 📊 Projet 1 – Tableau de bord Power BI pour le suivi de projets
+## 📊 [Projet 1 – Tableau de bord Power BI pour le suivi de projets](https://github.com/Blaksteel/Power-BI/blob/main/Projet%201%20Avancements%20des%20projets.pdf)
 
 **Contexte**
 Les organisations ont besoin d’une meilleure visibilité sur la performance et l’avancement de leurs projets.
